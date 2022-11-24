@@ -144,7 +144,7 @@ def t7_run3():
     file_list = []
     cur_path = os.path.dirname(os.path.realpath(__file__))
     for i in range(1, 12):
-        fp = open(cur_path + '\\20篇文章\\' + str(i) + '.txt', 'r', encoding='utf-8')
+        fp = open('/app/se/实验七txt/20篇文章/' + str(i) + '.txt', 'r', encoding='utf-8')
         content = fp.read()
         file_list.append(content)
 
