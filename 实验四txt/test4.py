@@ -227,11 +227,11 @@ def t4_run2():
     """利用K-shingle算法，计算两个给定文档的相似度，
        查找重复字符串，并将重复字符串高亮显示出来"""
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    fp = open("./1.txt", 'r', encoding='utf-8')
+    fp = open("../1.txt", 'r', encoding='utf-8')
     text1 = fp.read()
     st.text("文档1内容为：" + text1)
     fp.close()
-    fp = open("./2.txt", 'r', encoding='utf-8')
+    fp = open("../2.txt", 'r', encoding='utf-8')
     text2 = fp.read()
     st.text("文档2内容为：" + text2)
     fp.close()
