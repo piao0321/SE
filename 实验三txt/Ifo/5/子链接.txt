@@ -1,0 +1,88 @@
+推荐https://blog.csdn.net
+关注https://www.csdn.net?type=followtype#content
+后端/nav/back-end
+前端/nav/web
+移动开发/nav/mobile
+编程语言/nav/lang
+Java/nav/java
+Python/nav/python
+人工智能/nav/ai
+大数据/nav/big-data
+数据结构与算法/nav/algo
+音视频/nav/avi
+云原生/nav/cloud-native
+云平台/nav/cloud
+运维/nav/ops
+服务器/nav/server
+操作系统/nav/os
+硬件开发/nav/hardware
+嵌入式/nav/embedded
+微软技术/nav/microsoft
+软件工程/nav/software-engineering
+测试/nav/test
+网络空间安全/nav/sec
+网络与通信/nav/telecommunication
+用户体验设计/nav/design
+学习和成长/nav/job
+搜索/nav/search
+开发工具/nav/devtools
+游戏/nav/game
+HarmonyOS/nav/harmonyos
+区块链/nav/blockchain
+数学/nav/math
+前沿技术/nav/advanced-technology
+开源/nav/open-source
+此文主要通过WinForm来制作的一个人脸识别考勤打卡程序。https://blog.csdn.net/weixin_42794881/article/details/127769652
+摔跤猫子https://blog.csdn.net/weixin_42794881
+宠物用品商城系统的整体架构是在Windows操作系统中进行开发运用的，而且目前PC机的各项性能已经可以胜任普通网站的web服务器。系统开发所使用的技术也都是自身所具有的，也是当下广泛应用的技术之一。主要的操作对象是基于用户和管理员，系统采用经典的MVC三层架构，从上到下分别是，用户交互层--用户对象-应用服务层-应用支撑层-数据库系统--以及底层硬件和软件环境，这样一架构的话可以使得网站运行更具有稳定性和安全性，从而完成实现网站的开发。https://blog.csdn.net/weixin_39709134/article/details/127730048
+java李杨勇https://blog.csdn.net/weixin_39709134
+介绍反射,枚举和Lambad表达式的相关概念和使用, 在枚举中反射的特殊性...https://blog.csdn.net/Trong_/article/details/127639053
+荣·https://blog.csdn.net/Trong_
+一、常用统计方法与案例    1. 求和（sum）    2. 求平均值（mean）    3. 求最小值（min）    4. 求最大值（max）    5. 求中位数（median）    6. 求众数（mode）    7. 求方差（var）    8. 求标准差（std）    9. 求分布情况（describe）    10. 求相关系数（corr）https://blog.csdn.net/yuan2019035055/article/details/127597913
+无 羡ღhttps://blog.csdn.net/yuan2019035055
+C++软件开发值得推荐的十大高效软件分析工具https://blog.csdn.net/chenlycly/article/details/127608247
+dvlinkerhttps://blog.csdn.net/chenlycly
+小程序主要功能设计：首页、个人中心、用户管理、商家管理、餐厅信息管理、美食信息管理、美食类型管理、系统管理等功能并进行详细操作https://blog.csdn.net/weixin_39709134/article/details/127640347
+java李杨勇https://blog.csdn.net/weixin_39709134
+对于很多质疑，很多不解，本文将从目前企业内前端开发职业的占比；目前业内开发语言的受欢迎程度；近期社区问答活跃度；等维度来说明目前前端这个职业的所处位置。还有强硬的干货，通过深入浅出的方式说明前端开发都做什么，甚至提出一些工作多年的高级开发都不曾想过自己未来是什么的前进道路；☆文章结尾呢，也会为大学生或者初学者一些关于前端自学的指导建议，让大家能够更快的入门到守门。https://blog.csdn.net/xingyu_qie/article/details/127600773
+我们都是小白狗https://blog.csdn.net/xingyu_qie
+本篇与上一篇有很多联系，大家可以看看这篇Opencv项目实战：13 手部追踪，我们将根据上一节的内容，进行一个拓展。本篇你可以学到如何通过手势来控制电脑的音量大小。https://blog.csdn.net/m0_62919535/article/details/127587364
+夏天是冰红茶https://blog.csdn.net/m0_62919535
+现实中，指纹输入时，由于汗渍、干燥、按压力度不同等影响,得到的指纹图像大都含有断纹、褶皱、模糊、灰度不均匀等质量问题，虽然经过预处理，图像质量会有所改观，但预处理算法对各个指纹的适应性和有效性也会不同，并且会引入新的噪声，因此得到的细化二值图像往往含有大量的伪特征点。指纹图像处理中物体的形状信息是十分重要的，为了提取指纹图像特定区域的特征，对指纹图像通常需要采用细化算法处理，得到与原来指纹图像形状近似的由简单的弧或曲线组成的图形，这些细线处于物体的中轴附近，这就是所谓的指纹图像的细化。https://blog.csdn.net/ccsss22/article/details/127582230
+fpga和matlabhttps://blog.csdn.net/ccsss22
+本节教程我会带大家使用 HTML 、CSS和 JS 来制作一个本节示例将会实现如下所示的效果：源码也可在文末进行获取。https://blog.csdn.net/qq_53544522/article/details/127545799
+鲸落✗https://blog.csdn.net/qq_53544522
+别人的博客文章中有动态显示这是怎么做到的呢？别人的微信发送的表情动态为什么是自己鬼畜视频？这些都是别人做到的，本文就是让自己也可以做到以上的事情，制作鬼畜GIF动态，辣就学起来吧！https://blog.csdn.net/qq_35764295/article/details/127549747
+三省同学https://blog.csdn.net/qq_35764295
+1. 应用层2. 传输层2.1 UDP协议2.2 TCP协议（*三次握手四次挥手重点！！！）2.2.1 确认应答机制2.2.2 超时重传2.2.3 连接管理2.2.4 滑动窗口2.2.5 流量控制2.2.6 拥塞控制2.2.7 延迟应答2.2.8 捎带应答2.2.9 面向字节流2.2.10 TCP中的异常处理2.3 TCP和UDP之间的对比3. 网络层3.1 IP地址不够用的问题解决方案3.2地址管理3.3路由选择https://blog.csdn.net/m0_58761900/article/details/127364244
+快到锅里来呀https://blog.csdn.net/m0_58761900
+微信小程序进阶实战系列，打造精品专栏。https://blog.csdn.net/guorui_java/article/details/127525419
+哪 吒https://blog.csdn.net/guorui_java
+吃透JDBC中的SQL注入问题和解决方案https://blog.csdn.net/hh867308122/article/details/127539419
+Java Fanshttps://blog.csdn.net/hh867308122
+目前随着`元宇宙`概念的爆火，`THREE`技术已经深入到了物联网、VR、游戏、数据可视化等多个平台，今天我们主要基于`THREE`实现一个三维的`VR`看房小项目，THREE基于`WebGL`的三维引擎，目前是国内资料最多、使用最广泛的`三维引擎`，可以制作一些`3D`可视化项目https://blog.csdn.net/qq_53673551/article/details/127513554
+知心宝贝https://blog.csdn.net/qq_53673551
+看了这个gif后，可以清楚的看到产生了三个动画效果：图片"拉近"，"了解更多"从下往上显示出来，阴影。我看了华为官网的源代码，发现图片本身就是有一个mask的，这样能让图片看起来暗一些，也就意味着，当鼠标进入的时候，只需要让mask的背景颜色更深一些，就实现了阴影的效果。至于图片"拉近"，我早就写过了，无非是把图片放大，然后超出盒子的不显示，这个也容易。但了解更多显现，难度就大了一些。我想了很久，最后只有通过位置，来把"了解更多"显示出来，想过用visibility: visible;但效果不太好，也想过用https://blog.csdn.net/m0_59792745/article/details/127519574
+游坦之https://blog.csdn.net/m0_59792745
+在实际开发中，如果写了大量的 if 分支，并且可能还具有分支套分支，可以想象到整个代码的可读性和可维护都会大大降低，这是一个比较头疼的问题，那有没有什么办法能够即实现需求又能避免这些问题呢？本篇文章将转换思维深入讲解代码分支优化，快来围观吧！https://blog.csdn.net/m0_51969330/article/details/127711142
+海底烧烤店aihttps://blog.csdn.net/m0_51969330
+在Java中我们写代码经常会遇到异常，那么这篇文章将带你认识各种异常及其处理方式，还可以帮你按照需求制造想要的异常类型https://blog.csdn.net/m0_67660672/article/details/127460707
+bit mehttps://blog.csdn.net/m0_67660672
+人生重开模拟器是由VickScarlet上传至GitHub的一款简单的文字网页游戏。玩家点击“立即重开”并设置角色的初始属性后，程序就会随机为玩家生成对应的人生经历。https://blog.csdn.net/chenlong_cxy/article/details/127487860
+2021dragonhttps://blog.csdn.net/chenlong_cxy
+Java技能树https://edu.csdn.net/skill/java
+Java技术栈https://blog.csdn.net/youanyyou
+Yezi Prohttps://blog.csdn.net/weixin_62264287
+代码骑士https://blog.csdn.net/qq_51701007
+一个风轻云淡https://blog.csdn.net/m0_62436868
+dvlinkerhttps://blog.csdn.net/chenlycly
+DS小龙哥https://blog.csdn.net/xiaolong1126626497
+前端技术栈https://blog.csdn.net/weixin_42981560
+无 羡ღhttps://blog.csdn.net/yuan2019035055
+福大大架构师每日一题https://blog.csdn.net/weixin_48502062
+不渴望力量的哈士奇https://blog.csdn.net/weixin_42250835
+小虚竹https://blog.csdn.net/shi_hong_fei_hei
+jk_101https://blog.csdn.net/jk_101
+吉士先生https://blog.csdn.net/qq_69683957
+一个处女座的程序猿https://blog.csdn.net/qq_41185868
+辉小歌https://blog.csdn.net/qq_46527915

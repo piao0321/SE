@@ -1,0 +1,86 @@
+推荐https://blog.csdn.net
+关注https://www.csdn.net?type=followtype#content
+后端/nav/back-end
+前端/nav/web
+移动开发/nav/mobile
+编程语言/nav/lang
+Java/nav/java
+Python/nav/python
+人工智能/nav/ai
+大数据/nav/big-data
+数据结构与算法/nav/algo
+音视频/nav/avi
+云原生/nav/cloud-native
+云平台/nav/cloud
+运维/nav/ops
+服务器/nav/server
+操作系统/nav/os
+硬件开发/nav/hardware
+嵌入式/nav/embedded
+微软技术/nav/microsoft
+软件工程/nav/software-engineering
+测试/nav/test
+网络空间安全/nav/sec
+网络与通信/nav/telecommunication
+用户体验设计/nav/design
+学习和成长/nav/job
+搜索/nav/search
+开发工具/nav/devtools
+游戏/nav/game
+HarmonyOS/nav/harmonyos
+区块链/nav/blockchain
+数学/nav/math
+前沿技术/nav/advanced-technology
+开源/nav/open-source
+宠物用品商城系统的整体架构是在Windows操作系统中进行开发运用的，而且目前PC机的各项性能已经可以胜任普通网站的web服务器。系统开发所使用的技术也都是自身所具有的，也是当下广泛应用的技术之一。主要的操作对象是基于用户和管理员，系统采用经典的MVC三层架构，从上到下分别是，用户交互层--用户对象-应用服务层-应用支撑层-数据库系统--以及底层硬件和软件环境，这样一架构的话可以使得网站运行更具有稳定性和安全性，从而完成实现网站的开发。https://blog.csdn.net/weixin_39709134/article/details/127730048
+java李杨勇https://blog.csdn.net/weixin_39709134
+介绍反射,枚举和Lambad表达式的相关概念和使用, 在枚举中反射的特殊性...https://blog.csdn.net/Trong_/article/details/127639053
+荣·https://blog.csdn.net/Trong_
+对于很多质疑，很多不解，本文将从目前企业内前端开发职业的占比；目前业内开发语言的受欢迎程度；近期社区问答活跃度；等维度来说明目前前端这个职业的所处位置。还有强硬的干货，通过深入浅出的方式说明前端开发都做什么，甚至提出一些工作多年的高级开发都不曾想过自己未来是什么的前进道路；☆文章结尾呢，也会为大学生或者初学者一些关于前端自学的指导建议，让大家能够更快的入门到守门。https://blog.csdn.net/xingyu_qie/article/details/127600773
+我们都是小白狗https://blog.csdn.net/xingyu_qie
+小程序主要功能设计：首页、个人中心、用户管理、商家管理、餐厅信息管理、美食信息管理、美食类型管理、系统管理等功能并进行详细操作https://blog.csdn.net/weixin_39709134/article/details/127640347
+java李杨勇https://blog.csdn.net/weixin_39709134
+别人的博客文章中有动态显示这是怎么做到的呢？别人的微信发送的表情动态为什么是自己鬼畜视频？这些都是别人做到的，本文就是让自己也可以做到以上的事情，制作鬼畜GIF动态，辣就学起来吧！https://blog.csdn.net/qq_35764295/article/details/127549747
+三省同学https://blog.csdn.net/qq_35764295
+1. 应用层2. 传输层2.1 UDP协议2.2 TCP协议（*三次握手四次挥手重点！！！）2.2.1 确认应答机制2.2.2 超时重传2.2.3 连接管理2.2.4 滑动窗口2.2.5 流量控制2.2.6 拥塞控制2.2.7 延迟应答2.2.8 捎带应答2.2.9 面向字节流2.2.10 TCP中的异常处理2.3 TCP和UDP之间的对比3. 网络层3.1 IP地址不够用的问题解决方案3.2地址管理3.3路由选择https://blog.csdn.net/m0_58761900/article/details/127364244
+快到锅里来呀https://blog.csdn.net/m0_58761900
+微信小程序进阶实战系列，打造精品专栏。https://blog.csdn.net/guorui_java/article/details/127525419
+哪 吒https://blog.csdn.net/guorui_java
+吃透JDBC中的SQL注入问题和解决方案https://blog.csdn.net/hh867308122/article/details/127539419
+Java Fanshttps://blog.csdn.net/hh867308122
+在Java中我们写代码经常会遇到异常，那么这篇文章将带你认识各种异常及其处理方式，还可以帮你按照需求制造想要的异常类型https://blog.csdn.net/m0_67660672/article/details/127460707
+bit mehttps://blog.csdn.net/m0_67660672
+面向对象是一种基于面向过程的编程思想，是向现实世界模型的自然延伸，这是一种”万物皆对象”的编程思想。由执行者变为指挥者，在现实生活中的任何物体都可以归为一类事物，而每一个个体都是一类事物的实例。面向对象的编程是以对象为中心，以消息为驱动。区别:(1)编程思路不同:面向过程以实现功能的函数开发为主，用函数把这些步骤一步一步实现，使用的时候一个一个依次调用就可以了，而面向对象是把构成问题事务分解成各个对象，建立对象的目的不是为了完成一个步骤，而是为了描叙某个事物在整个解决问题的步骤中的行为。https://blog.csdn.net/qq_36317312/article/details/127467773
+研行笔录https://blog.csdn.net/qq_36317312
+吃透JDBC中的事务及事务的封装https://blog.csdn.net/hh867308122/article/details/127636114
+Java Fanshttps://blog.csdn.net/hh867308122
+自学Java怎么学，找对方向最关键！在这里为大家分享最全的Java全栈学习路线及知识清单！https://blog.csdn.net/qq_42146402/article/details/127133435
+小新要变强https://blog.csdn.net/qq_42146402
+​		Quartz是一个比较成熟了的定时任务框架，但是捏，它稍微的有些许繁琐，因此，SpringBoot大哥说：我来给它整合整合。” 于是呢，SpringBoot大哥出手了，对其进行整合，简化了一系列配置，将很多配置都简化为了默认配置（包含常用的注解式开发🤭），这样对Quartz的的整合就舒服了许多。https://blog.csdn.net/qq_54217349/article/details/127477707
+踏风彡https://blog.csdn.net/qq_54217349
+Java知识点--IO流（上）https://blog.csdn.net/programmerchiu/article/details/127688980
+邱崇源https://blog.csdn.net/programmerchiu
+想在面试、工作中脱颖而出？想在最短的时间内快速掌握 Java 的核心基础知识点？想要成为一位优秀的 Java 工程师？本篇文章能助你一臂之力！目前正值招聘求职旺季，很多同学对一些新技术名词都能侃侃而谈，但对一些核心原理理解的不够透彻，特别是对 Java的一些核心基础知识点掌握的不够，例如JVM、常用的算法和数据结构等。正所谓万丈高楼平地起，只有把基础掌握的牢固，才能走的更远，面对不断更新的技术才能快速掌握，同时在面试、工作中也更能脱颖而出！https://blog.csdn.net/javaAnPou/article/details/127550649
+跟着我学Javahttps://blog.csdn.net/javaAnPou
+网上的tomcat安装及配置教程一大堆，但是好多都过时了，根本不适用现在的版本，今天凯歌整理一篇Tomcat安装步骤及详细配置教程，2022年最新版~https://blog.csdn.net/qq_41701956/article/details/126693711
+Java程序员-张凯https://blog.csdn.net/qq_41701956
+准备了几个网站，希望能帮助各位朋友。不多说直接来干货内容。https://blog.csdn.net/weixin_41055260/article/details/126572131
+程序员编程指南https://blog.csdn.net/weixin_41055260
+前言这是一个对于Java中知识点的类，抽象类，封装，继承，多态，接口等进行的一个简单的代码练习https://blog.csdn.net/m0_69996872/article/details/127589425
+Java冰激凌https://blog.csdn.net/m0_69996872
+Java技能树https://edu.csdn.net/skill/java
+蜀州凯哥https://blog.csdn.net/m0_72088858
+十一技术斩https://blog.csdn.net/uuqaz
+石杉的架构笔记https://blog.csdn.net/qq_42046105
+豆包程序员https://blog.csdn.net/zhgl322
+陶然同学https://blog.csdn.net/weixin_45481821
+小虚竹https://blog.csdn.net/shi_hong_fei_hei
+pastcloudshttps://blog.csdn.net/yuyecsdn
+爱吃豆的土豆https://blog.csdn.net/m0_64550837
+KJ.JKhttps://blog.csdn.net/m0_47384542
+Java Fanshttps://blog.csdn.net/hh867308122
+一一哥Sunhttps://blog.csdn.net/syc000666
+杨 戬https://blog.csdn.net/weixin_45525272
+小志的博客https://blog.csdn.net/li1325169021
+悠然予夏https://blog.csdn.net/weixin_52851967
+一个风轻云淡https://blog.csdn.net/m0_62436868

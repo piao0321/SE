@@ -1,0 +1,90 @@
+推荐https://blog.csdn.net
+关注https://www.csdn.net?type=followtype#content
+后端/nav/back-end
+前端/nav/web
+移动开发/nav/mobile
+编程语言/nav/lang
+Java/nav/java
+Python/nav/python
+人工智能/nav/ai
+大数据/nav/big-data
+数据结构与算法/nav/algo
+音视频/nav/avi
+云原生/nav/cloud-native
+云平台/nav/cloud
+运维/nav/ops
+服务器/nav/server
+操作系统/nav/os
+硬件开发/nav/hardware
+嵌入式/nav/embedded
+微软技术/nav/microsoft
+软件工程/nav/software-engineering
+测试/nav/test
+网络空间安全/nav/sec
+网络与通信/nav/telecommunication
+用户体验设计/nav/design
+学习和成长/nav/job
+搜索/nav/search
+开发工具/nav/devtools
+游戏/nav/game
+HarmonyOS/nav/harmonyos
+区块链/nav/blockchain
+数学/nav/math
+前沿技术/nav/advanced-technology
+开源/nav/open-source
+如何正确的清理C盘前言清理方法1. 利用Windows自己附带的磁盘清理工具2. 开启自动清理3. 通过“配置存储感知或立即运行”来清理4. 管理C盘中的程序5. 系统文件夹转移6. 将C盘现有内容转移到别的盘参考链接前言Windows操作系统一般是安装在磁盘驱动器的C盘中，运行时会产生许多垃圾文件，C盘空间在一定程度上会越来越小。伴随着电脑工作的时间越久，C盘常常会提示显示其内存已不足。C盘容量不足将会极大影响系统的运行速度，电脑会变卡、死机。释放磁盘空间可以提高计算机的性能。那么，如何正确清https://blog.csdn.net/weixin_44211968/article/details/120129476
+想变厉害的大白菜https://blog.csdn.net/weixin_44211968
+在使用DEV C++编译源码通过win10控制台输出时发现中文显示乱码！网上查了很多资料，都不靠谱。后来结合网上的2种不同方式解决了该问题。Embarcadero DEV C++ 6.3亲测有效~一、设置UTF-8为CMD默认编码方式搜索窗口输入regedit打开注册表按如下路径进入目标项计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor右键单击右侧区域，选择“新建”-“字符串值”，然后选择“修改”，编辑“数值名称”https://blog.csdn.net/baidu_41711780/article/details/122090345
+江枫听雨https://blog.csdn.net/baidu_41711780
+导语暗恋让人受尽委屈！一开始，你是我的秘密，我怕你知道，又怕你不知道，又怕你知道装作不知道！这大概就是暗恋的感受吧，可若是双向奔赴，那简更是甜蜜度爆表，快同小编吃下这波狗粮！跟着上一期的玫瑰花花样表白之后，小编新出了2款新型升级之后的表白代码！花样表白总有一款是你喜欢的！效果满分~正文还是熟悉的配方！熟悉的味道！盛开的蓝玫瑰效果如下：附源码：t.setup(800,800)t.hideturtle()t.speed(11)t.penup().https://blog.csdn.net/weixin_55822277/article/details/120486927
+顾木子吖https://blog.csdn.net/weixin_55822277
+例45：C语音编程实现求两个数的最大公约数和最小公倍数解题思路：最大公因数，也称最大公约数、最大公因子，指两个或多个整数共有约数中最大的一个；最小公倍数是指两个或多个整数公有的倍数叫做它们的公倍数，其中除0以外最小的一个公倍数就叫做这几个整数的最小公倍数。最小公倍数=两整数的乘积÷最大公约数 ， 所以怎么求最大公约数是关键。源代码演示：#include&lt;stdio.h&gt;//头文件 int main()//主函数 {    int m, n, num1, num2, temp;//定义https://blog.csdn.net/weixin_48669767/article/details/111826043
+小林C语言https://blog.csdn.net/weixin_48669767
+输出所有的“水仙花数”。所谓“水仙花数”是指一个3位数，其各位数字立方之和等于该数本身。例如，153是一个水仙花数，因为153=1³+5³＋3³解题思路：水仙花数的解题思路是把给出的某个三位数的个位、十位、百位分别拆分，并求其立方和。程序能正常运行并准确输出“水仙花数”。定义i为水仙花数，运用for循环for (❶ i=100;❷ i&lt;=999;❸i++)先执行❶，再执行❷判断条件是否满足，满足执行下列花括号，最后执行❸，一次循环结束；再执行❷判断条件是否满足，满足执行下列花括号，最后https://blog.csdn.net/cozyxiaoyang/article/details/111160254
+我身上有她的香炉味～https://blog.csdn.net/cozyxiaoyang
+python烟花代码如下# -*- coding: utf-8 -*-import math, random,timeimport threadingimport tkinter as tkimport re#import uuidFireworks=[]maxFireworks=8height,width=600,600class firework(object):    def __init__(self,color,speed,width,height):       https://blog.csdn.net/weixin_50973371/article/details/111120569
+/^Mike^/https://blog.csdn.net/weixin_50973371
+continue 的用法详解continue用法continue 的用法详解continue 在while中的用法continue 在for中的用法continue 在剔除不需要的用法continue语句的作用是跳过本次循环体中余下尚未执行的语句，立即进行下一次的循环条件判定，可以理解为仅结束本次循环。注意：continue语句并没有使整个循环终止。continue 在while中的用法//continue 在while中的用法#include&lt;stdio.h&gt;int main()https://blog.csdn.net/weixin_52142731/article/details/110437371
+无赖H4https://blog.csdn.net/weixin_52142731
+简述测试流程:1、阅读相关技术文档（如产品PRD、UI设计、产品流程图等）。	2、参加需求评审会议。	3、根据最终确定的需求文档编写测试计划。	4、编写测试用例（等价类划分法、边界值分析法等）。	5、用例评审(主要参与人员：开发、测试、产品、测试leader)。	6、开发提交代码至SVN或者GIT ，配管搭建测试环境。	7、执行测试用例，记录发现的问题。	8、验证bug与回归测试。	9、编写测试报告。	10、产品上线。补充测试用例设计过程：根据需求得出测试需求设计测试方https://blog.csdn.net/hard_days/article/details/110388559
+软件测试进阶中https://blog.csdn.net/hard_days
+C语言排序算法-冒泡排序从键盘输入的10个整数按从小到大的顺序排序后输出#include&lt;stdio.h&gt;	void main(){	int n[10] = { 25,35,68,79,21,13,98,7,16,62 };//定义一个大小为10的数组	int i, j, temp;	for (i = 1; i &lt;= 9; i++)//外层循环是比较的轮数，数组内有10个数，那么就应该比较10-1=9轮	{		for (j = 0; j &lt;= 9 - i; j++)https://blog.csdn.net/xianming_flag/article/details/110401128
+小白可编程https://blog.csdn.net/xianming_flag
+##数据结构课程设计-通讯录管理系统一，前言自从上次C语言课设写完后，这次数据结构课设就写的游刃有余了，很快啊，不足三天就写完了它（年轻人不讲武德），如果你认真看过我之前写的C语言课程设计-球队管理系统，你就不难发现，这次数据结构的课设完全就是那篇直接改过来的，也就存储结构变了一下。C语言课设在这里-----[球队管理系统（C语言版）](https://blog.csdn.net/qq_44799835/article/details/94903114)废话先不多说，直接上完整代码：**二，直https://blog.csdn.net/qq_44799835/article/details/111059314
+追足梦幻https://blog.csdn.net/qq_44799835
+作为网络安全初学者，会遇到采用Go语言开发的恶意样本。因此从今天开始从零讲解Golang编程语言，一方面是督促自己不断前行且学习新知识；另一方面是分享与读者，希望大家一起进步。这系列文章入门部分将参考“尚硅谷”韩顺平老师的视频和书籍《GO高级编程》，详见参考文献，并结合作者多年的编程经验进行学习和丰富，且看且珍惜吧！后续会结合网络安全进行GO语言实战深入，驾驭~这些年我学过各种编程语言，从最早的C语言到C++，再到C#、PHP、JAVA，再到IOS开发、Python，到最新的GO语言，学得是真的杂。有时https://blog.csdn.net/Eastmount/article/details/111150449
+Eastmounthttps://blog.csdn.net/Eastmount
+想要学好c语言，基础必须要夯实。所以我们今天来将讲一讲c语言中常见的三个区别1.‘0’ 与 '\0’的区别2.‘0’ 与 0的区别3.’‘0’’ 与 '0’的区别4.’\0’ 与 0的区别1.首先，我们来区分一下 0 跟 '\0’OK，现在打开你的ASCII码表，不出意外，你看到的第一个是空字符（Null），这个对应的就是 ‘\0’ ,其在ASCII码表中对应的是0。此外，在判断字符串是否结束的标志时，就是通过判断是否遇到了 ‘\0’ ，如果遇到则表示字符串结束。而字符 ‘0’ 对应的ASChttps://blog.csdn.net/hcxddd/article/details/117880021
+呆狐仙https://blog.csdn.net/hcxddd
+在python中会出现[-1]、[:-1]、[::-1]、[n::-1]、[:,:,0]、[…,0]、[…,::-1]，他们分别是什么意思呢，这里就来详尽的说一下：下面的a = [1,2,3,4,5][-1]：列表最后一项[:-1]：从第一项到最后一项原型是[n : m]，前闭后开，索引从零开始，第一个索引指定可以取到，即n可以取到，后一个索引不可取到，即m不可取到。[::-1]：代表从全列表倒序取原型是[n : m : k]，代表的是从那一段开始取，隔几个取一次。其中，n代表的是取值开始https://blog.csdn.net/weixin_44350337/article/details/116034510
+Dunkle.Thttps://blog.csdn.net/weixin_44350337
+学生成绩管理系统课程设计，作为计算机科学专业学生的一门必修课，印象非常深刻，上机，编码，写报告，答辩，最后很多人勉强完成了功课，但是却很少能学到东西，算是一种遗憾吧，即使我们毕业了，仍然会想回去再做一便。  今天就来复习一遍这个课题，也让自己学习学习。  学生成绩管理系统，对于刚学编程的人来说，是有一些难度的，有循环要考虑，还需要注意界面打印，菜单管理，输入输出控制，文件读写操作，排序算法等等技巧。  学生成绩管理系统，可以分为如下几个功能：  主菜单：1、输入学生成...https://blog.csdn.net/feinifi/article/details/110249811
+luffy5459https://blog.csdn.net/feinifi
+以下内容均为个人笔记，仅供学习参考使用，因内容均为自己实践经验所得，个人水平有限，如有错误欢迎指正注：编程语言为Python31.get()函数利用键来获取值之前在学习python的时候，在获取值得时候常用的方法就是直接print(dict[key])但这种方法中当字典中不存在该键时会返回KeyError类型错误，此时就可以用get()函数还利用键获取值print(dict.get(key))利用get()函数操作时当字典中不存在输入的键时会返回一个None，这样程序运行时就不会出异常2https://blog.csdn.net/aaa9692/article/details/115469795
+百万雨https://blog.csdn.net/aaa9692
+发现网上很多Java面试题都没有答案，所以花了很长时间搜集整理出来了这套Java面试题大全，希望对大家有帮助哈~本套Java面试题大全，全的不能再全，哈哈~一、Java基础知识面试题1、Java概述①. 何为编程编程就是让计算机为解决某个问题而使用某种程序设计语言编写程序代码，并最终得到结果的过程。为了使计算机能够理解人的意图，人类就必须要将需解决的问题的思路、方法、和手段通过计算机能够理解的形式告诉计算机，使得计算机能够根据人的指令一步一步去工作，完成某种特定的任务。这种人和计算机https://blog.csdn.net/qq_41701956/article/details/110119625
+Java程序员-张凯https://blog.csdn.net/qq_41701956
+文章目录前言第一章 PHP语言学习介绍1.1 PHP部署安装环境1.2 PHP代码工具选择第二章 PHP代码基本语法2.1 PHP函数知识介绍2.2 PHP常量变量介绍2.2.1 PHP变量知识：2.2.2 PHP常量知识：2.3 PHP注释信息介绍2.4 PHP数据类型介绍2.4.1 整形数据类型2.4.2 布尔数据类型2.4.3 字符串数据类型2.4.4 浮点型数据类型2.4.5 PHP数据类型之查看和判断数据类型2.5 PHP流程控制语句2.6 PHP算数运算方法2.6.1 PHP程序自加自减运算2.https://blog.csdn.net/Jack0610/article/details/110733859
+SeaOf0https://blog.csdn.net/Jack0610
+杨辉三角——C语言实现杨辉三角：11 11 2 11 3 3 11 4 6 4 1…由上述举例可知每行第一位数和最后一位数都为1；其余的数为正上方和左边数之和；因此，根据已知规律，可以写出如下解决方案：#include &lt;stdio.h&gt;//杨辉三角int main(){	int n;	printf("请输入要打印的行数：");	scanf("%d",&amp;n);	int a[100][100];	for(int i=0;i&lt;n;i++)https://blog.csdn.net/m0_46959770/article/details/110008938
+ordinary.Jhttps://blog.csdn.net/m0_46959770
+选择题以下python代码输出什么?a = [2,3,1]sorted(a)print(a)A aB [3, 2, 1]C [2, 3, 1]D [1, 2, 3]问题解析1.sorted()函数可以对所有可迭代的对象进行排序操作。题目中，sorted()函数提供了一个新的有序的输出结果，并且不改变原始值的顺序。所以使用print()语句输出列表a，结果仍是原来a的排序。2.sorted()函数是一个内置函数，可以直接使用。sorted()语法(应用于Python 3.x)：sohttps://blog.csdn.net/liujingwei8610/article/details/121299626
+刘经纬老师https://blog.csdn.net/liujingwei8610
+Flask框架是Python中的一个非常重要的WEB开发框架，与另一个重量级Python Web框架Django齐名。但与Django的重和全不同，Flask强调灵活和简单。所以我们也会称Flask为微框架。微框架中的“微”字表示 Flask 的目标是保持核心简单而又可扩展。Flask 不会替你做出许多决定，比如选用何种数据库、使用何种模板引擎，在flask中这些都是非常容易改变的。Flask可以变成你任何想要的东西，一切恰到好处，由你做主。https://blog.csdn.net/eason612/article/details/127483426
+Eason_LYChttps://blog.csdn.net/eason612
+MySQL入门技能树https://edu.csdn.net/skill/mysql
+Java后端架构猛猛https://blog.csdn.net/m0_67645544
+OoZzzyhttps://blog.csdn.net/qq_43141726
+滕青山YYDShttps://blog.csdn.net/qq_34626094
+热爱编程的大忽悠https://blog.csdn.net/m0_53157173
+cloneme01https://blog.csdn.net/goodjava2007
+~庞贝https://blog.csdn.net/qq_53267860
+一恍过去https://blog.csdn.net/zhuocailing3390
+阿昌喜欢吃黄桃https://blog.csdn.net/qq_43284469
+一个风轻云淡https://blog.csdn.net/m0_62436868
+鱼找水需要时间https://blog.csdn.net/weixin_43847283
+梁云亮https://blog.csdn.net/lianghecai52171314
+梦想橡皮擦https://blog.csdn.net/hihell
+菜鸟是大神https://blog.csdn.net/wufaqidong1
+OldWinePothttps://blog.csdn.net/pastclouds
+悠然予夏https://blog.csdn.net/weixin_52851967

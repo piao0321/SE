@@ -1,0 +1,90 @@
+推荐https://blog.csdn.net
+关注https://www.csdn.net?type=followtype#content
+后端/nav/back-end
+前端/nav/web
+移动开发/nav/mobile
+编程语言/nav/lang
+Java/nav/java
+Python/nav/python
+人工智能/nav/ai
+大数据/nav/big-data
+数据结构与算法/nav/algo
+音视频/nav/avi
+云原生/nav/cloud-native
+云平台/nav/cloud
+运维/nav/ops
+服务器/nav/server
+操作系统/nav/os
+硬件开发/nav/hardware
+嵌入式/nav/embedded
+微软技术/nav/microsoft
+软件工程/nav/software-engineering
+测试/nav/test
+网络空间安全/nav/sec
+网络与通信/nav/telecommunication
+用户体验设计/nav/design
+学习和成长/nav/job
+搜索/nav/search
+开发工具/nav/devtools
+游戏/nav/game
+HarmonyOS/nav/harmonyos
+区块链/nav/blockchain
+数学/nav/math
+前沿技术/nav/advanced-technology
+开源/nav/open-source
+SPL作为专门用于结构化和半结构化数据的处理技术，在实际应用时经常能比SQL快几倍到几百倍，同时代码还会短很多，尤其在处理复杂计算时优势非常明显。用户在看到这些应用效果后对SPL往往很感兴趣，但又担心掌握起来太难，毕竟SPL的理念和语法都跟SQL有较多不同，这要求用户需要重新了解一些概念和学习新的语法，用户可能会心生疑虑。那么SPL的上手难度究竟如何呢？这里我们以SQL为起点讨论一下这个问题。https://blog.csdn.net/u010634066/article/details/127726441
+石臻臻的杂货铺https://blog.csdn.net/u010634066
+Redis 实现秒杀下单，采用Stream消息队列实现，快！https://blog.csdn.net/weixin_45526437/article/details/127668407
+Bug 终结者https://blog.csdn.net/weixin_45526437
+吃透JDBC中的SQL注入问题和解决方案https://blog.csdn.net/hh867308122/article/details/127539419
+Java Fanshttps://blog.csdn.net/hh867308122
+今天是1024，一个特殊的日子，发一个小项目吧！也意味着我要开始写项目专栏好了，陆陆续续会将之前写的项目总结到博客中，因为属实拖得有点久了，本次的项目是基于flask+echarts的疫情监控系统！https://blog.csdn.net/qq_57421630/article/details/127475275
+馆主阿牛https://blog.csdn.net/qq_57421630
+​本篇文章结合前面上一篇文章 MySQL建表与常见类型设计陷阱，结合上文所学的属性类型，本文详细介绍表结构的字段类型选择和表的物理存储设计，主要有库、表、字段、索引的命名规范，反范式的设计原则、表压缩。后续博主会对建表的索引设计进行详细介绍。https://blog.csdn.net/FMC_WBL/article/details/127706498
+小明java问道之路https://blog.csdn.net/FMC_WBL
+MySQL进阶实战系列，打造精品专栏。https://blog.csdn.net/guorui_java/article/details/127705786
+哪 吒https://blog.csdn.net/guorui_java
+大多数人不懂，不会，不做，才是你的机会，你得行动，不能畏首畏尾大数据等于趋势，一个向上趋势的行业会让你赚得比其他行业多做减法，才是真本事。想知道一个人是菜鸟还是高手，就看他到底是做加法还是做减法。世界上没有白吃的午餐，无非是舍弃哪个换取哪个，想什么都揽到怀里，注定会一事无成。懂得舍弃才是大智慧，懂得放弃的，才是高手。你观察所有的新人，无一不是在做加法，生怕漏掉一点点。一个刚学做饭的厨师，恨不得把所有的调料都给你加进去；一个刚摸相机的摄影师，生怕漏掉任何一个细节；一个初学美工的新人，做出来的一定是花花绿绿一闪https://blog.csdn.net/xiaoweite1/article/details/127601576
+Lansonlihttps://blog.csdn.net/xiaoweite1
+介绍MySQL中的索引内容，助推小伙伴们在面试中通关！https://blog.csdn.net/qq_43499848/article/details/127447991
+是阿芒啊https://blog.csdn.net/qq_43499848
+与分布式锁相对应的是本地锁，像我们熟悉的synchronized和ReentrantLock都是本地锁，本地锁是作用于JVM内部，单个进程内的操作共享资源互斥。而现在主流都是分布式和微服务架构，会部署多个服务(多个JVM)，为此分布式锁也就应运而生了。分布式锁主流实现有3种：基于Redis、Zookeeper或Mysql等数据库。Redis实现分布式锁使用得非常广泛，也是面试的重要考点之一，很多同学都知道这个知识，也大致知道分布式锁的原理，但是具体到细节的掌握上，往往并不完全正确。https://blog.csdn.net/scm_2008/article/details/127422698
+天罡gghttps://blog.csdn.net/scm_2008
+大家好，我是小杨！今天我将详细的为大家介绍MySQL数据库的基本操作，希望大家能够从中收获多多！https://blog.csdn.net/m0_64338546/article/details/127149168
+小杨MiManchihttps://blog.csdn.net/m0_64338546
+Redis 秒杀下单如何进行性能优化，通过 阻塞队列实现Redis异步秒杀下单优化！https://blog.csdn.net/weixin_45526437/article/details/127608388
+Bug 终结者https://blog.csdn.net/weixin_45526437
+面板中，左上部分列出了已经建立的数据库连接，点击各项，右侧会展示当前连接的配置信息，General面板中，可以配置数据库连接的信息，如主机、用户名、密码等，不同数据库配置信息不完全相同，填入数据库URL，注意，URL后有个选项，可以选择直接填入url，那么就不需要单独填主机名、端口等信息了。首先要打开服务，先点击启动VNMP，然后再点击启动套件中的Apache和Mysql，FTP看情况，Nginx服务和Apache是一类型的，个人的话推荐Apache，二选一，具体区别自己百度。（密码在安装过程中设定的）https://blog.csdn.net/qq_21402983/article/details/127588768
+猿童学https://blog.csdn.net/qq_21402983
+配置网络(IP、网关和DNS等)和防火墙1.1 查看服务器的 IP 地址1.2 设置服务器ip地址1.3 重启网络1.4 pingwww.baidu.com看是否能联网1.5 修改服务器的主机名称1.6 绑定主机名与 IP 地址1.7 关闭防火墙1.8 创建hadoop用户https://blog.csdn.net/m0_57781407/article/details/127507062
+发量不足https://blog.csdn.net/m0_57781407
+记录总结自己第一次如何使用Flink SQL读写Hudi并同步Hive，以及遇到的问题及解决过程。关于Flink SQL客户端如何使用可以参考：Flink SQL 客户端查询Hive配置及问题解决Flink 1.14.3Hudi 0.12.0/0.12.1本文采用Flink yarn-session模式，不会的可以参考之前的文章。下载地址：https://repo1.maven.org/maven2/org/apache/hudi/hudi-flink1.14-bundle/0.12.1/hudi-flihttps://blog.csdn.net/dkl12/article/details/127621878
+董可伦https://blog.csdn.net/dkl12
+CRUD代表: 增加(create) ,查询(retrieve) ,更新(update) ,删除(delete) 单词首字母。https://blog.csdn.net/buhuisuanfa/article/details/127772716
+熬夜磕代码丶https://blog.csdn.net/buhuisuanfa
+2022年秋招即将来临，很多同学会问Java面试八股文有必要背吗？答案是，必须背，博主是个三本，今年凭借这篇八股文斩获了多个大厂暑期实习offer，相信秋招一定也可以发挥重要作用。你可以讨厌这种模式，但你一定要去背，因为不背你就进不了大厂，八股文能快速检验出求职者是否为科班出身，专业基础强不强。国内的互联网面试，恐怕是现存的、最接近科举考试的制度。我整理了一份 Java 基础篇的八股文，大家在面试前可以背一遍，一定能“吊打”面试官。另外，可以关注博主，博主主页有许多归类好的算法题目！本篇是八股文中的八股文，https://blog.csdn.net/w20001118/article/details/125724647
+十八岁讨厌Javahttps://blog.csdn.net/w20001118
+【代码】MySQL多表查询。https://blog.csdn.net/m0_63069714/article/details/127494502
+努力学IT的小徐https://blog.csdn.net/m0_63069714
+mysql 十秒快速插入百万条数据用时：62分钟多  方式一、二总结：到此可以看出其实其处理程序及批处理是没有起作用的，为此我们使用方式三方法三较于方法二的改变是只是url地址上的改变，其它没有任何修改 用时：【10秒左右】https://blog.csdn.net/weixin_56028042/article/details/127855696
+子非鱼呀https://blog.csdn.net/weixin_56028042
+大数据(Big Data)，指无法在可承受的时间范围内用常规软件工具进行捕捉、管理和处理的数据集合，是需要新处理模式才能具有更强的决策力、洞察发现力和流程优化能力的海量、高增长率和多样化的信息资产。采用分步式的方式存储数据时，要考虑数据复制时一致性问题，数据复制与一致性基本原则和设计理念CAP 、ACID 、BASE 等。典型的Hadoop 的HDFS存储框架采用文件拆分存储在多个结点，每个拆分出的文件存储3个副本的形式存储。大数据就像矿石，需要汇聚，清洗 ,分析 ，挖掘等处理才能发挥蕴含的价值。https://blog.csdn.net/qq_64691289/article/details/127456902
+莫浅子https://blog.csdn.net/qq_64691289
+一、JDBC含义二、JDBC数据库连接三、JDBC操作数据表1、实现步骤2、JDBC插入数据实例（增）3、JDBC删除数据实例（删）4、JDBC修改数据实例（改）5、JDBC查询数据实例（查）四、JDBC异常SQLException方法https://blog.csdn.net/hh867308122/article/details/127487395
+Java Fanshttps://blog.csdn.net/hh867308122
+MySQL入门技能树https://edu.csdn.net/skill/mysql
+智慧浩海https://blog.csdn.net/unbelievevc
+帝尊悟世https://blog.csdn.net/adofsauron
+杨林伟https://blog.csdn.net/qq_20042935
+王知无(import_bigdata)https://blog.csdn.net/u013411339
+Keven Hehttps://blog.csdn.net/weixin_45462732
+Navicat中国https://blog.csdn.net/weixin_53935287
+不二人生https://blog.csdn.net/king14bhhb
+涛思数据（TDengine）https://blog.csdn.net/taos_data
+Lucifer三思而后行https://blog.csdn.net/m0_50546016
+wesptenhttps://blog.csdn.net/qq_35029061
+IT邦德https://blog.csdn.net/weixin_41645135
+石杉的架构笔记https://blog.csdn.net/qq_42046105
+Alienware^https://blog.csdn.net/weixin_45417821
+数商云网络https://blog.csdn.net/steven_zhangxue
+qq_251836457https://blog.csdn.net/qq_41221322

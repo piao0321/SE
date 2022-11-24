@@ -1,0 +1,110 @@
+后端https://blog.csdn.net/nav/back-end
+前端https://blog.csdn.net/nav/web
+移动开发https://blog.csdn.net/nav/mobile
+编程语言https://blog.csdn.net/nav/lang
+Javahttps://blog.csdn.net/nav/java
+Pythonhttps://blog.csdn.net/nav/python
+人工智能https://blog.csdn.net/nav/ai
+大数据https://blog.csdn.net/nav/big-data
+数据结构与算法https://blog.csdn.net/nav/algo
+音视频https://blog.csdn.net/nav/avi
+云原生https://blog.csdn.net/nav/cloud-native
+云平台https://blog.csdn.net/nav/cloud
+运维https://blog.csdn.net/nav/ops
+服务器https://blog.csdn.net/nav/server
+操作系统https://blog.csdn.net/nav/os
+硬件开发https://blog.csdn.net/nav/hardware
+嵌入式https://blog.csdn.net/nav/embedded
+微软技术https://blog.csdn.net/nav/microsoft
+软件工程https://blog.csdn.net/nav/software-engineering
+测试https://blog.csdn.net/nav/test
+网络空间安全https://blog.csdn.net/nav/sec
+网络与通信https://blog.csdn.net/nav/telecommunication
+用户体验设计https://blog.csdn.net/nav/design
+学习和成长https://blog.csdn.net/nav/job
+搜索https://blog.csdn.net/nav/search
+开发工具https://blog.csdn.net/nav/devtools
+游戏https://blog.csdn.net/nav/game
+HarmonyOShttps://blog.csdn.net/nav/harmonyos
+区块链https://blog.csdn.net/nav/blockchain
+数学https://blog.csdn.net/nav/math
+前沿技术https://blog.csdn.net/nav/advanced-technology
+开源https://blog.csdn.net/nav/open-source
+失败告终！历经 8 年研发的 Python 代码补全神器 Kite 停止开发https://blog.csdn.net/csdnnews/article/details/127976527
+AI 编程距离程序员还有多远？如果说 GitHub Copilot 的到来，让众多开发者看到了希望，那么初创公司 Kite 的倒闭，也让我们认清了现实。https://blog.csdn.net/csdnnews/article/details/127976527
+我让 AI 来处理我 24 小时的音频信息https://blog.csdn.net/csdnnews/article/details/127977736
+这会是未来吗？https://blog.csdn.net/csdnnews/article/details/127977736
+低代码编程语言能饭否https://blog.csdn.net/u010634066/article/details/127967025
+从 NASL 说开……https://blog.csdn.net/u010634066/article/details/127967025
+Docker踩坑，又涨知识了https://blog.csdn.net/wo541075754/article/details/127915498
+纯学究式的技术学习，终究还是有缺陷的，必须实践，必须临床实践！https://blog.csdn.net/wo541075754/article/details/127915498
+马斯克：我更想当一名开发工程师！https://csdnnews.blog.csdn.net/article/details/127958506
+不想当 CEO 的马斯克https://csdnnews.blog.csdn.net/article/details/127958506
+被“白嫖”拖垮的开源维护者，缺什么？https://blog.csdn.net/csdnnews/article/details/127958699
+缺的从来就不只是钱......https://blog.csdn.net/csdnnews/article/details/127958699
+历史上的今天：PHP 创始人诞生https://blog.csdn.net/Byeweiyang/article/details/127982298
+IE 2.0 发布https://blog.csdn.net/Byeweiyang/article/details/127982298
+程序员陪马斯克奋战到深夜：没想到光速被裁https://blog.csdn.net/csdngeeknews/article/details/127976475
+腾讯接手暴雪中国游戏可能性不大 |极客头条https://blog.csdn.net/csdngeeknews/article/details/127976475
+ModelScope魔搭平台工程架构介绍https://live.csdn.net/room/coc_modelscope/MQziXlO9
+干货满满，速来围观～https://live.csdn.net/room/coc_modelscope/MQziXlO9
+历史上的今天：第一个阿帕网连接建立https://blog.csdn.net/Byeweiyang/article/details/127957872
+爱迪生发明留声机https://blog.csdn.net/Byeweiyang/article/details/127957872
+腾讯魏巍：Eunomia云原生资源编排优化https://blog.csdn.net/m0_46700908/article/details/127907626
+原动力×云原生正发声降本增效大讲堂https://blog.csdn.net/m0_46700908/article/details/127907626
+Java Fanshttps://blog.csdn.net/hh867308122
+Java Fanshttps://blog.csdn.net/hh867308122
+ https://ask.csdn.net/questions/7841580
+破浪xhttps://blog.csdn.net/u011428089
+用Python送你一颗跳动的爱心https://blog.csdn.net/qq_40523737/article/details/127967411
+Crossin的编程教室https://blog.csdn.net/qq_40523737
+Sql-Translation（简称ST）是一个 Json转译SQL工具，在同类工具的基础上增强了功能，为节省时间、提高工作效率而生。并且遵循 “轻页面、重逻辑” 的原则，由极简页面来处理复杂任务，且它不仅仅是一个项目，而是以“降低时间成本、提高效率”为目标的执行工具。https://blog.csdn.net/Gaowumao/article/details/127931937
+派 大 星.https://blog.csdn.net/Gaowumao
+修改兴趣标签https://i.csdn.net/#/user-center/profile?floor=interest
+反馈信息流问题https://bbs.csdn.net/forums/placard?typeId=1100
+而且破解的很彻底，基本涵盖正版软件的所有功能，尝到甜头后，从发送垃圾邮件，打开黑色网站，组织网上赌博的灰色产业，到需要一些技术含量的盗版软件。俄罗斯黑客们开始疯狂拓展互联网黑产领域，相较于西方的黑客社群，俄罗斯社群更为开放，进入门槛也更低，高手更是非常乐于向新手普及知识，整个黑客的社群氛围非常好。1994年数学家弗拉基米尔列文，俄罗斯典型的早期黑客，在他的领导下，黑客团队攻击花旗银行的管理系统并成功获取花旗银行的系统访问权限。如果说面对的是金融攻击，以俄罗斯现在的经济实力估计还是难以招架的。https://blog.csdn.net/qq_69775412/article/details/127927174
+安鸾彭于晏https://blog.csdn.net/qq_69775412
+有很多跟着我学习的经常跟我抱怨，学了css又忘了html的单词，学了js又忘了css 的单词，所以本着给跟着我学习的学生提供一个学习前端不怕英语单词的课程，就打算写一篇博客去讲述如何增强在学习前端的时候巩固语法并且加强对英语单词的熟悉度这一章节我们先讲下html，css和js的部分重点单词和联想记忆法https://blog.csdn.net/weixin_44001222/article/details/127931274
+前端小王hshttps://blog.csdn.net/weixin_44001222
+100个H5游戏专栏🎮 目前已有100+小游戏，源码在持续更新中，前100位订阅限时优惠，先到先得。🐬 订阅专栏后可阅读100个HTML小游戏文章；还可私聊进前端/游戏制作学习交流群；领取一百个小游戏源码。在线演示地址：源码也可在文末进行获取。https://blog.csdn.net/qq_53544522/article/details/127950393
+鲸落✗https://blog.csdn.net/qq_53544522
+让学前端不再害怕英语单词（二），通过本文，可以对css，js和es6的单词进行了在逻辑上和联想上的记忆，让初学者更快的上手前端代码https://blog.csdn.net/weixin_44001222/article/details/127944023
+前端小王hshttps://blog.csdn.net/weixin_44001222
+李峋同款爱心代码, 动态跳动效果, 还有将该代码打包exe程序教程, 确定不给自己女友整一个?https://blog.csdn.net/qq_43371556/article/details/127843269
+时间静止不是简史https://blog.csdn.net/qq_43371556
+嗨喽，大家好呀~这里是爱看美女的茜茜呐又到了学Python时刻~当使用桌面应用程序的时候，有没有那么一瞬间，想学习一下桌面应用程序开发？建议此次课程大家稍作了解不要浪费太多时间，因为没有哪家公司会招聘以为Python程序员开发桌面程序吧？https://blog.csdn.net/m0_72282564/article/details/127904445
+茜茜是帅哥https://blog.csdn.net/m0_72282564
+头部声明：如果您是来学怎么定位他人的，不好意思，这是违法行为，我不会，也不会教。https://blog.csdn.net/m0_55400802/article/details/127946092
+迷雾安全-红中https://blog.csdn.net/m0_55400802
+近年来，电子竞技频频破圈，为陪玩行业的发展提供了绝佳的机遇......https://blog.csdn.net/xff123456_/article/details/127926028
+蚂蚁爱Pythonhttps://blog.csdn.net/xff123456_
+Windows cmd 命令https://blog.csdn.net/dubo_csdn/article/details/127852570
+bobob_https://blog.csdn.net/dubo_csdn
+Linux第一章，带你快速了解Linux的前世今生https://blog.csdn.net/keep_contact/article/details/127930946
+康来个程https://blog.csdn.net/keep_contact
+不知道广大前端同学有没有过这样的经历，在做新需求联调的时候，原本上一个版本已经做的好好的功能，前后端已经联调好的。这次做需求的时候，测试发现好多地方都不对了。https://blog.csdn.net/xingyu_qie/article/details/127930780
+我们都是小白狗https://blog.csdn.net/xingyu_qie
+最适合初学者学习的编程语言https://blog.csdn.net/m0_69234258/article/details/127917118
+九耶（钛伦特）https://blog.csdn.net/m0_69234258
+某宝脚本一搜能搜一大堆，就是不知道具体有没有用，但是这款某东的代码于11-17还是可用的，大家拿去白嫖吧！https://blog.csdn.net/weixin_43881394/article/details/127898362
+爬遍天下无敌手https://blog.csdn.net/weixin_43881394
+关机程序https://blog.csdn.net/Weraphael/article/details/127834173
+Weraphaelhttps://blog.csdn.net/Weraphael
+1 系统整体设计车牌识别系统包括4个步骤:车牌定位 (包括识别图像中的车牌位置并将其分割) 、图像处理、字符分割与字符识别, 如图1所示。车牌定位的主要功能是从图像中可能包含车牌的候选区域中定位车牌区域;图像处理的功能是强化车牌关键特征;字符分割的功能是将车牌字符从检测到的车牌区域背景中分离出来;字符识别的功能是用已知字符识别分割得到的字符。图1 车牌识别系统2 车牌定位算法车牌定位是车牌识别算法的第一步。颜色特征在定位和识别系统中起着重要作用, 车牌区域的颜色具有显著特征。https://blog.csdn.net/weixin_63266434/article/details/127952253
+Matlab领域https://blog.csdn.net/weixin_63266434
+改写为python代码。密码 + 随机10位。https://blog.csdn.net/Android_wxf/article/details/127910329
+大安全家https://blog.csdn.net/Android_wxf
+NVDIAhttps://bbs.csdn.net/forums/NVIDIA
+.NET社区https://bbs.csdn.net/forums/DotNET 
+Gauss松鼠会https://bbs.csdn.net/forums/gaussdb
+CSDN学习社区https://bbs.csdn.net/forums/studyvip
+网易数帆开源技术https://bbs.csdn.net/forums/digitalsail
+ConsenSyshttps://bbs.csdn.net/forums/Consensys
+视觉中国https://www.vcg.com 
+BOSS直聘https://www.zhipin.com
+看准网https://www.kanzhun.com
+Veerhttps://www.veer.com
+优设网https://www.uisdc.com
+脉脉https://maimai.cn
+View UIhttps://www.iviewui.com/docs/introduce
+DevPress社区https://www.devpress.cn/

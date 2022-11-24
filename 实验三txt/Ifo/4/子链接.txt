@@ -1,0 +1,85 @@
+推荐https://blog.csdn.net
+关注https://www.csdn.net?type=followtype#content
+后端/nav/back-end
+前端/nav/web
+移动开发/nav/mobile
+编程语言/nav/lang
+Java/nav/java
+Python/nav/python
+人工智能/nav/ai
+大数据/nav/big-data
+数据结构与算法/nav/algo
+音视频/nav/avi
+云原生/nav/cloud-native
+云平台/nav/cloud
+运维/nav/ops
+服务器/nav/server
+操作系统/nav/os
+硬件开发/nav/hardware
+嵌入式/nav/embedded
+微软技术/nav/microsoft
+软件工程/nav/software-engineering
+测试/nav/test
+网络空间安全/nav/sec
+网络与通信/nav/telecommunication
+用户体验设计/nav/design
+学习和成长/nav/job
+搜索/nav/search
+开发工具/nav/devtools
+游戏/nav/game
+HarmonyOS/nav/harmonyos
+区块链/nav/blockchain
+数学/nav/math
+前沿技术/nav/advanced-technology
+开源/nav/open-source
+小程序主要功能设计：首页、个人中心、用户管理、商家管理、餐厅信息管理、美食信息管理、美食类型管理、系统管理等功能并进行详细操作https://blog.csdn.net/weixin_39709134/article/details/127640347
+java李杨勇https://blog.csdn.net/weixin_39709134
+微信小程序进阶实战系列，打造精品专栏。https://blog.csdn.net/guorui_java/article/details/127525419
+哪 吒https://blog.csdn.net/guorui_java
+此文将教你如何通过小程序制作一个工具帮助人们迅速找到核酸检测点，实现核酸点查询、地图导航、拨号等功能。抗疫不仅仅是精神的对垒也是物质的角力。https://blog.csdn.net/weixin_42794881/article/details/127457495
+摔跤猫子https://blog.csdn.net/weixin_42794881
+点击下方图标或左右滑动来切换书架、排行榜、分类，点击右上角搜索图标进入搜索界面从书架点击某本书籍进入阅读界面在排行榜处点击左上角♂/♀图标切换男生/女生，点击某个排行榜进入排行榜界面在分类处点击上方按钮切换男生/女生，点击某个分类进入分类界面。https://blog.csdn.net/qq_42257666/article/details/127534755
+振华OPPOhttps://blog.csdn.net/qq_42257666
+此文主要通过小程序制作一个敲木鱼的小工具，在心烦意乱的时候缓解一下焦虑。https://blog.csdn.net/weixin_42794881/article/details/127849026
+摔跤猫子https://blog.csdn.net/weixin_42794881
+HarmonyOS提供了轻量级智能穿戴应用开发，开发者可以在运动手表上开发跨设备协同工作的应用，如从与之匹配的智能手机、平板等各类设备上获取信息，便捷地显示在运动手表上，或通过对运动手表的操作来控制其他设备上的操作任务，为消费者带来更加灵活、智慧的分布式交互体验。轻量级智能穿戴统一使用JS语言进行开发，这里带领大家体验一番。https://blog.csdn.net/qq_41640218/article/details/127463735
+TiAmo zhanghttps://blog.csdn.net/qq_41640218
+你还在发愁不知道如何在uniapp开发中使用iconfont阿里图标库吗？你还在是下载一张张图片用来开发项目嘛？来试试这个iconfont图标库，很香的https://blog.csdn.net/qq_49002903/article/details/127445998
+不苒https://blog.csdn.net/qq_49002903
+嗨喽，大家好呀~这里是爱看美女的茜茜呐又到了学Python时刻~当使用桌面应用程序的时候，有没有那么一瞬间，想学习一下桌面应用程序开发？建议此次课程大家稍作了解不要浪费太多时间，因为没有哪家公司会招聘以为Python程序员开发桌面程序吧？https://blog.csdn.net/m0_72282564/article/details/127904445
+茜茜是帅哥https://blog.csdn.net/m0_72282564
+本文是介绍Java8新特性与常用方法（此篇只做大体介绍了解，之后会把重要的部分写在新的博客中）说明：在工作中发现Java8新特性的写法无处不在，必须了解学会才能看懂前辈写的代码，本篇对Java8新特性做了全面的总结。https://blog.csdn.net/weixin_47343544/article/details/127466242
+陈老老老板https://blog.csdn.net/weixin_47343544
+iVX是一款为新一代零代码开发人员设计的全栈编程工具，或者说iVX的出现创造了这一与传统代码工程师所对应的iVX开发工程师职业。IVXivx公号：ivx_cn。https://blog.csdn.net/Javascript_tsj/article/details/127649525
+热爱编程的小白白https://blog.csdn.net/Javascript_tsj
+简化后端：一篇带你走进云开发及小程序云开发的世界https://blog.csdn.net/lbcyllqj/article/details/127456544
+lqj_本人https://blog.csdn.net/lbcyllqj
+Android框架之一 BRVAH【BaseRecyclerViewAdapterHelper】使用demo。效果图》》》// 第二个布局添加自定义动画 adapter2 . setAdapterAnimation(new BaseAnimation() {} });默认执行一次，想要反复执行可以自行设置。记得这段要添加在MainActivity.java的adapter2  new出来之后，setAdapter之前空余时间别忘记了看看源码~~~https://blog.csdn.net/qq_46906413/article/details/127476165
+不良使https://blog.csdn.net/qq_46906413
+1. 输入输出时的缓冲区2. 回车与换行的区别3.windows，linux双版本下的进度条小程序实现希望让大家感到C语言的乐趣，感谢https://blog.csdn.net/m0_64361907/article/details/127606513
+龟龟不断向前https://blog.csdn.net/m0_64361907
+微信小程序在无论在功能、文档及相关支持方面，都是优于前面几种微信账号类型，它提供了很多原生程序才有的接口，使得我们的小程序在很多方面突破H5页面应用的限制，更加接近原生程序的功能，因此微信小程序具有很大的前景想象力。https://blog.csdn.net/m0_63947499/article/details/127557797
+陈橘又青https://blog.csdn.net/m0_63947499
+🕐：开发者将测试好的代码，发布到应用商店的审核平台，平台方会进行稳定性及性能测试。👉 测试成功后，用户即可在 👉 如苹果的AppStore看到应用的更新信息，用户点击应用更新后，需要先关闭应用，再进行更新。👉 人话：重装🕐：什么是热更新❓🤷‍♂️广义：无需关闭应用，不停机状态下修复漏洞，指软件不通过运营商店的软件版本更新审核，直接通过应用自行下载的软件数据更新资源的行为，重点是更新逻辑代码。https://blog.csdn.net/m0_61490399/article/details/127458011
+SYFStrivehttps://blog.csdn.net/m0_61490399
+​	小程序经常需要和用户进行交互，比如点击页面按钮，滑动某个区域，这些用户的操作都会触发小程序事件，事件可以将用户的行为反馈到逻辑层，触发响应的操作。事件可以绑定在组件上，当触发事件时，就会执行逻辑层中对应的事件处理函数。当视图层发生事件时，某些情况需要事件携带一些参数到执行的函数中, 这个时候就可以通过data-属性来完成。当某个事件触发时, 会产生一个事件对象, 并且这个对象被传入到回调函数中, 事件对象有以下常见的属性。共同：都是用来记录手指的触摸点坐标，单指操作时没有区别。https://blog.csdn.net/weixin_47980825/article/details/127577843
+贤蛋大眼萌https://blog.csdn.net/weixin_47980825
+OpenCV是一个基于BSD许可(开源)发行的跨平台计算机视觉库，它可以运行在Linux、Windows、Android和Mac OS等操作系统上。OpenCV原本由一系列 C 函数和少量 C++ 类构成，同时提供了Python等其他语言的接口，它实现了图像处理和计算机视觉方面的很多通用算法。下面这个实例演示了使用OpenCV在Android手机实现在图像上绘制文本。本文提供的OpenCV实例使用Java语言编写，并且运行在Android手机上。https://blog.csdn.net/qq_41640218/article/details/127644864
+TiAmo zhanghttps://blog.csdn.net/qq_41640218
+新版本CotEditor 4.4 发布，支持 macOS 13https://blog.csdn.net/flyTie/article/details/127471011
+YF云飞https://blog.csdn.net/flyTie
+坚果的博客https://blog.csdn.net/qq_39132095
+极客日报https://blog.csdn.net/weixin_39786569
+一叶飘舟https://blog.csdn.net/jdsjlzx
+nicepainkillerhttps://blog.csdn.net/nicepainkiller
+大熊猫侯佩https://blog.csdn.net/mydo
+呆呆的猫https://blog.csdn.net/jiaoyangwm
+iOS开发上架https://blog.csdn.net/weixin_46626339
+宇夜iOShttps://blog.csdn.net/qq_42816425
+Swift社区https://blog.csdn.net/qq_36478920
+喵喵源码站https://blog.csdn.net/muyeseocom
+Android技术栈https://blog.csdn.net/m0_70748845
+字节卷动https://blog.csdn.net/qq446282412
+瓜子三百克https://blog.csdn.net/weixin_38633659
+xiangzhihong8https://blog.csdn.net/xiangzhihong8
+Kevin-Devhttps://blog.csdn.net/duoduo_11011
