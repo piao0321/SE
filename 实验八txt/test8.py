@@ -195,8 +195,7 @@ def get_keyword(text):
 def t8_run2():
     cur_path = os.path.dirname(os.path.realpath(__file__))
     for i in range(10, 15):
-        fp = open("/app/se/实验八txt/体育/" + str(i) + '.txt', 'r',
-                  encoding='ansi')
+        fp = open("/app/se/实验八txt/体育/" + str(i) + '.txt', 'r', encoding='ansi')
         content = fp.read()
         st.write(content)
         fp.close()
@@ -226,8 +225,7 @@ def keysentences_extraction(text):
 def t8_run3():
     cur_path = os.path.dirname(os.path.realpath(__file__))
     for i in range(10, 15):
-        fp = open("/app/se/实验八txt/体育/" + str(i) + '.txt', 'r',
-                  encoding='ansi')
+        fp = open("/app/se/实验八txt/体育/" + str(i) + '.txt', 'r', encoding='ansi')
         content = fp.read()
         st.write(content)
         fp.close()
