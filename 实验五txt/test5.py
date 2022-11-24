@@ -228,7 +228,7 @@ class TextRank(object):
     # 对句子进行分词
     def cutSentence(self):
         cur_path = os.path.dirname(os.path.realpath(__file__))
-        jieba.load_userdict(cur_path + '\\user_dict.txt')
+        jieba.load_userdict('/app/se/实验五txt/user_dict.txt')
         tag_filter = ['a', 'd', 'n', 'v']
         seg_result = pseg.cut(self.sentence)
         self.word_list = [s.word for s in seg_result if s.flag in tag_filter]
