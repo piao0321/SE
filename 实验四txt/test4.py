@@ -247,7 +247,7 @@ def t4_run3():
     global text
     text = " "
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    fp = open(cur_path + "\\test", 'r', encoding='utf-8')
+    fp = open("/app/se/实验四txt/test", 'r', encoding='utf-8')
     des = fp.read()  # 指定文件
 
     path = cur_path + "\\文件"  # 指定路径
