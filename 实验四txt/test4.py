@@ -250,7 +250,7 @@ def t4_run3():
     fp = open("/app/se/实验四txt/test", 'r', encoding='utf-8')
     des = fp.read()  # 指定文件
 
-    path = cur_path + "\\文件"  # 指定路径
+    path = "/app/se/实验四txt/文件"  # 指定路径
     # dirpath:目录的路径
     # dirnames:目录下所有存在的目录的名称
     # filenames:目录路径下所有文件的名称
