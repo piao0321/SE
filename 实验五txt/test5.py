@@ -390,8 +390,8 @@ def t5_run2():
     linklen = 1000  # 爬取的页面个数限制
     linkmap = np.zeros([linklen, linklen])  # 网页链接关系矩阵
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    linksavepath = cur_path + '\\na.txt'  # 链接图保存路径
-    URLsavepath = cur_path + '\\url2.txt'  # 访问的页面的保存路径
+    linksavepath = '/app/se/实验五txt/na.txt'  # 链接图保存路径
+    URLsavepath = '/app/se/实验五txt/url2.txt'  # 访问的页面的保存路径
     matrix = get_Matrix(linksavepath)
     urls = get_Url(URLsavepath)
     m = np.array(matrix, dtype=float)
