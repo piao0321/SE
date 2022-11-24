@@ -1,9 +1,7 @@
 # -*- coding:utf-8 -*-
 import time
-import tkinter
-from tkinter import *
-import jieba
 import streamlit as st
+import jieba
 
 
 class text1:
