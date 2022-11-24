@@ -449,10 +449,10 @@ def t5_run4():
 
 def t5_run5():
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    img = Image.open(cur_path + "\\Figure_1.png")
+    img = Image.open("/app/se/实验五txt/Figure_1.png")
     # st.image(img)
     st.image(img, caption="希拉里文物关系图 Image")
-    img = Image.open(cur_path + "\\Figure_2.png")
+    img = Image.open("/app/se/实验五txt/Figure_2.png")
     # st.image(img)
     st.image(img, caption="希拉里文物剪枝关系图 Image")
 
