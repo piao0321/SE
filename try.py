@@ -72,7 +72,7 @@ def main():
         which_file = st.selectbox("请选择你想要显示的文件", files_name)
         cur_path = os.path.dirname(os.path.realpath(__file__))
         if st.button("display"):
-            fp = open("实验三txt\\Ifo\\" + str(file_num) + "\\" + which_file, 'r', encoding='utf-8')
+            fp = open(".\实验三txt\\Ifo\\" + str(file_num) + "\\" + which_file, 'r', encoding='utf-8')
             content = fp.read()
             fp.close()
             st.write(content)
