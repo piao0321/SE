@@ -260,7 +260,7 @@ def t4_run3():
             if dirnames is not None:
                 for i in filenames:
                     # print(dirpath+'\\'+i)
-                    fp = open(dirpath + '\\' + i, 'r', encoding='utf-8')
+                    fp = open(dirpath + '/' + i, 'r', encoding='utf-8')
                     s = fp.read()
                     st.success(s)
                     result = getSimilarity(des, s, 2)  # 查重率
@@ -268,7 +268,7 @@ def t4_run3():
                     # text.insert('insert', "查重率为：" + str(result) + "\n")
                     # text.insert('insert', "文档路径：" + dirpath + '\\' + i + "\n")
                     text += "查重率为：" + str(result)
-                    st.text("文档名称：" + dirpath + "\\" + i)
+                    st.text("文档名称：" + dirpath + "/" + i)
                     st.text("查重率为：" + str(result))
                     # print(getSimilarity(des, s, 2))
                     # st.markdown(get_sameStr(des, s), unsafe_allow_html=True)
