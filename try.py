@@ -92,7 +92,7 @@ def main():
                 t4_run3()
             elif which == "exe4":
                 cur_path = os.path.dirname(os.path.realpath(__file__))
-                com_file_data_sim(cur_path + '\\实验四txt\\sanguo.txt').com_data_sim()
+                com_file_data_sim('./实验四txt/sanguo.txt').com_data_sim()
 
     elif choice == "实验五":
         st.info("1、给定网页关系的PR值")
