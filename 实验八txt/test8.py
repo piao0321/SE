@@ -171,7 +171,7 @@ def get_keyword(text):
     # 第二步：去停用词
     # 这里是有一个文件存放要改的文章，一个文件存放停用表，然后和停用表里的词比较，一样的就删掉，最后把结果存放在一个文件中
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    stopwords = {}.fromkeys([line.rstrip() for line in open(cur_path +'\\stopwords.txt', encoding='utf-8')])
+    stopwords = {}.fromkeys([line.rstrip() for line in open('/app/se/实验八txt/stopwords.txt', encoding='utf-8')])
     final = ""
     for word in fenci_text:
         if word not in stopwords:
@@ -195,8 +195,7 @@ def get_keyword(text):
 def t8_run2():
     cur_path = os.path.dirname(os.path.realpath(__file__))
     for i in range(10, 15):
-        fp = open(cur_path + "\\体育\\" + str(i) + '.txt', 'r',
-                  encoding='ansi')
+        fp = open("/app/se/实验八txt/体育/" + str(i) + '.txt', 'r', encoding='gbk')
         content = fp.read()
         st.write(content)
         fp.close()
@@ -226,8 +225,7 @@ def keysentences_extraction(text):
 def t8_run3():
     cur_path = os.path.dirname(os.path.realpath(__file__))
     for i in range(10, 15):
-        fp = open(cur_path + "\\体育\\" + str(i) + '.txt', 'r',
-                  encoding='ansi')
+        fp = open("/app/se/实验八txt/体育/" + str(i) + '.txt', 'r', encoding='gbk')
         content = fp.read()
         st.write(content)
         fp.close()

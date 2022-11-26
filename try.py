@@ -18,7 +18,7 @@ from 实验八txt.test8 import *
 
 
 def main():
-    st.image("封面.png")
+    st.title("实验合集")
     # app = MultiPage()
     st.sidebar.warning("请在边栏进行选择")
     activities = ["实验一二", "实验三", "实验四", "实验五",
@@ -72,7 +72,7 @@ def main():
         which_file = st.selectbox("请选择你想要显示的文件", files_name)
         cur_path = os.path.dirname(os.path.realpath(__file__))
         if st.button("display"):
-            fp = open(cur_path + "\\实验三txt\\Ifo\\" + str(file_num) + "\\" + which_file, 'r', encoding='utf-8')
+            fp = open("./实验三txt/Ifo/" + str(file_num) + "/" + which_file, 'r', encoding='utf-8')
             content = fp.read()
             fp.close()
             st.write(content)
@@ -92,7 +92,7 @@ def main():
                 t4_run3()
             elif which == "exe4":
                 cur_path = os.path.dirname(os.path.realpath(__file__))
-                com_file_data_sim(cur_path + '\\实验四txt\\sanguo.txt').com_data_sim()
+                com_file_data_sim('./实验四txt/sanguo.txt').com_data_sim()
 
     elif choice == "实验五":
         st.info("1、给定网页关系的PR值")

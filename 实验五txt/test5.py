@@ -228,7 +228,7 @@ class TextRank(object):
     # 对句子进行分词
     def cutSentence(self):
         cur_path = os.path.dirname(os.path.realpath(__file__))
-        jieba.load_userdict(cur_path + '\\user_dict.txt')
+        jieba.load_userdict('/app/se/实验五txt/user_dict.txt')
         tag_filter = ['a', 'd', 'n', 'v']
         seg_result = pseg.cut(self.sentence)
         self.word_list = [s.word for s in seg_result if s.flag in tag_filter]
@@ -390,8 +390,8 @@ def t5_run2():
     linklen = 1000  # 爬取的页面个数限制
     linkmap = np.zeros([linklen, linklen])  # 网页链接关系矩阵
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    linksavepath = cur_path + '\\na.txt'  # 链接图保存路径
-    URLsavepath = cur_path + '\\url2.txt'  # 访问的页面的保存路径
+    linksavepath = '/app/se/实验五txt/na.txt'  # 链接图保存路径
+    URLsavepath = '/app/se/实验五txt/url2.txt'  # 访问的页面的保存路径
     matrix = get_Matrix(linksavepath)
     urls = get_Url(URLsavepath)
     m = np.array(matrix, dtype=float)
@@ -449,10 +449,10 @@ def t5_run4():
 
 def t5_run5():
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    img = Image.open(cur_path + "\\Figure_1.png")
+    img = Image.open("/app/se/实验五txt/Figure_1.png")
     # st.image(img)
     st.image(img, caption="希拉里文物关系图 Image")
-    img = Image.open(cur_path + "\\Figure_2.png")
+    img = Image.open("/app/se/实验五txt/Figure_2.png")
     # st.image(img)
     st.image(img, caption="希拉里文物剪枝关系图 Image")
 

@@ -227,11 +227,11 @@ def t4_run2():
     """利用K-shingle算法，计算两个给定文档的相似度，
        查找重复字符串，并将重复字符串高亮显示出来"""
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    fp = open(cur_path + "\\1.txt", 'r', encoding='utf-8')
+    fp = open("/app/se/实验四txt/1.txt", 'r', encoding='utf-8')
     text1 = fp.read()
     st.text("文档1内容为：" + text1)
     fp.close()
-    fp = open(cur_path + "\\2.txt", 'r', encoding='utf-8')
+    fp = open("/app/se/实验四txt/2.txt", 'r', encoding='utf-8')
     text2 = fp.read()
     st.text("文档2内容为：" + text2)
     fp.close()
@@ -247,10 +247,10 @@ def t4_run3():
     global text
     text = " "
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    fp = open(cur_path + "\\test", 'r', encoding='utf-8')
+    fp = open("/app/se/实验四txt/test", 'r', encoding='utf-8')
     des = fp.read()  # 指定文件
 
-    path = cur_path + "\\文件"  # 指定路径
+    path = "/app/se/实验四txt/文件"  # 指定路径
     # dirpath:目录的路径
     # dirnames:目录下所有存在的目录的名称
     # filenames:目录路径下所有文件的名称
@@ -260,7 +260,7 @@ def t4_run3():
             if dirnames is not None:
                 for i in filenames:
                     # print(dirpath+'\\'+i)
-                    fp = open(dirpath + '\\' + i, 'r', encoding='utf-8')
+                    fp = open(dirpath + '/' + i, 'r', encoding='utf-8')
                     s = fp.read()
                     st.success(s)
                     result = getSimilarity(des, s, 2)  # 查重率
@@ -268,7 +268,7 @@ def t4_run3():
                     # text.insert('insert', "查重率为：" + str(result) + "\n")
                     # text.insert('insert', "文档路径：" + dirpath + '\\' + i + "\n")
                     text += "查重率为：" + str(result)
-                    st.text("文档名称：" + dirpath + "\\" + i)
+                    st.text("文档名称：" + dirpath + "/" + i)
                     st.text("查重率为：" + str(result))
                     # print(getSimilarity(des, s, 2))
                     # st.markdown(get_sameStr(des, s), unsafe_allow_html=True)

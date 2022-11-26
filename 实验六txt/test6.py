@@ -19,8 +19,8 @@ class Word:
 def t6_run1():
     """结巴分词统计词频和词语出现的位置"""
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    filename1 = "\\结巴.txt"
-    fp1 = open(cur_path + filename1, 'r', encoding='utf-8')
+    filename1 = "结巴.txt"
+    fp1 = open('/app/se/实验六txt/结巴.txt', 'r', encoding='utf-8')
     article1 = fp1.read()
     fp1.close()
     list1 = jieba.lcut(article1)  # 列表
@@ -37,7 +37,7 @@ def t6_run1():
     for w in words.values():
         newwords.append(w)
 
-    fp = open(cur_path + '\\test1.txt', 'w', encoding='utf-8')
+    fp = open('/app/se/实验六txt/test1.txt', 'w', encoding='utf-8')
     for w in newwords:
         fp.write(w.word + ':')
         fp.write('[' + str(w.num) + '] ')
@@ -101,8 +101,8 @@ def backward(sentence, dictionary, max_len):
 def t6_run2():
     """最大匹配法——正向/逆向"""
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    filename2 = "\\词典.txt"
-    fp2 = open(cur_path + filename2, 'r', encoding='utf-8')
+    filename2 = "词典.txt"
+    fp2 = open('/app/se/实验六txt/'+ filename2, 'r', encoding='utf-8')
     sentence = fp2.readline()
     dictionary = fp2.readline()
     fp2.close()
@@ -119,8 +119,8 @@ def t6_run2():
 def t6_tun3():
     """对三国文本结巴分词，统计词频"""
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    filename3 = "\\人民日报.txt"
-    fp3 = open(cur_path + filename3, 'r', encoding='utf-8')
+    filename3 = "人民日报.txt"
+    fp3 = open('/app/se/实验六txt/' + filename3, 'r', encoding='utf-8')
     article3 = fp3.read()
     fp3.close()
     list3 = jieba.lcut(article3)
@@ -137,15 +137,15 @@ def t6_tun3():
         # print(w.word + ":", end="")
         # print(w.num)
         # st.write(w.word + ": " + str(w.num))
-    scade = pd.read_csv( cur_path+ '\\run3.CSV', encoding='gbk')
+    scade = pd.read_csv('/app/se/实验六txt/run3.CSV', encoding='gbk')
     st.dataframe(scade)
 
 def get_diction():
     """利用结巴分词建立词典"""
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    filepath1 = '\\人民日报.txt'
+    filepath1 = '人民日报.txt'
     dict = []
-    fp = open(cur_path + filepath1, 'r', encoding='utf-8')
+    fp = open('/app/se/实验六txt/' + filepath1, 'r', encoding='utf-8')
     article3 = fp.read()
     # 创建字典
     line1 = article3.replace(' ', '')  # 去掉文本中的空格
@@ -155,7 +155,7 @@ def get_diction():
     for i in range(len(seg)):
         if seg[i] not in dict:
             dict.append(seg[i])
-    with open(cur_path + '\\dict人民_txt', 'w', encoding='utf-8') as fp:
+    with open('/app/se/实验六txt/dict人民_txt', 'w', encoding='utf-8') as fp:
         for i in dict:
             fp.write(i + ',')
     # print(dict)
@@ -166,13 +166,13 @@ def t6_run4():
     """最大匹配法"""
     get_diction()
     cur_path = os.path.dirname(os.path.realpath(__file__))
-    filename1 = "\\人民日报.txt"
-    fp1 = open(cur_path + filename1, 'r', encoding='utf-8')
+    filename1 = "人民日报.txt"
+    fp1 = open('/app/se/实验六txt/' + filename1, 'r', encoding='utf-8')
     sentence = fp1.read()
     fp1.close()
 
-    filename2 = "\\dict人民_txt"
-    fp2 = open(cur_path + filename2, 'r', encoding='utf-8')
+    filename2 = "dict人民_txt"
+    fp2 = open('/app/se/实验六txt/' + filename2, 'r', encoding='utf-8')
     dictionary = fp2.read()
     fp2.close()
     dictionary = dictionary.split(',')
@@ -192,7 +192,7 @@ def t6_run4():
         # print(w.word + ":", end="")
         # print(w.num)
         # st.write(w.word + ": " + str(w.num))
-    scade = pd.read_csv( cur_path+ '\\run4.CSV', encoding='gbk')
+    scade = pd.read_csv('/app/se/实验六txt/run4.CSV', encoding='gbk')
     st.dataframe(scade)
 
 
