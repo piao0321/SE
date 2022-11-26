@@ -18,7 +18,7 @@ from 实验八txt.test8 import *
 
 
 def main():
-    st.image("实验2.png")
+    st.image("封面2.png")
     # app = MultiPage()
     st.sidebar.warning("请在边栏进行选择")
     activities = ["实验一二", "实验三", "实验四", "实验五",
